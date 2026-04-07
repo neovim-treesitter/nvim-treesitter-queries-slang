@@ -1,7 +1,7 @@
 {
+  "lang": "slang",
   "url": "https://github.com/tree-sitter-grammars/tree-sitter-slang",
   "semver": false,
   "parser_version": "1dbcc4abc7b3cdd663eb03d93031167d6ed19f56",
-  "location": null,
-  "lang": "slang"
+  "location": null
 }
